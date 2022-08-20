@@ -1,0 +1,22 @@
+{
+  "name": "tarea-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDJ20/TAREA-NODEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RDJ20/TAREA-NODEJS/issues"
+  },
+  "homepage": "https://github.com/RDJ20/TAREA-NODEJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
